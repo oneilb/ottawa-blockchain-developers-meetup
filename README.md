@@ -3,4 +3,4 @@ This Meetup is targeted at developers who want to live code blockchain and decen
 
 ## Meetup #1: Ethereum Solidity vs Hyperledger Chaincode - a live coding session
 
-[Meetup #1 Read Me is up]('/Meetup1/README.md')
+[Meetup #1 Read Me is up](https://github.com/marleymarl/ottawa-blockchain-developers-meetup/tree/master/Meetup1)
