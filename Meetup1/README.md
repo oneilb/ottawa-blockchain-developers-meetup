@@ -4,13 +4,12 @@ Enterprises are actively evaluating whether to use Ethereum or Hyperledger or a 
 
 ## Requirements
 
-```
+
 1. [Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
 2. [Node JS](https://nodejs.org/en/)
 3. Docker: [Windows Install](https://docs.docker.com/docker-for-windows/install/) / [Mac Install](https://docs.docker.com/docker-for-mac/install/)
 
 
-```
 
 ## Use Case Instructions
 
