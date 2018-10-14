@@ -13,8 +13,5 @@ Here is a video on how to use [Github Issues](https://www.youtube.com/watch?v=Ys
 
 **Anyone who adds an idea prior to the meetup that ends up getting used will receive an additional 0.5x multiplier in the Meetup #2 OTTCoin distribution for each idea provided and used.**
 
-Anyone from Meetup #1 who brings an additional person to the Meetup (must RSVP and join the group) will receive an additional 1x multipler for each person. 
-
-Anyone who shows up on time will receive a 2x multiplier. Anyone who shows up late will receive a -0.5x multiplier. 
-
 After we make decisions on the initial desired behaviors and incentives, and undesired behaviors and penalties and document them as requirements. We will then write the specifications on how we intend to accomplish that with smart contract code and how we can write tests for those. If we have time, we will write javascript tests using Truffle Suite (Mocha and Chai) and/or set-up the work to be done in between Meetup #2 and Meetup #3. 
+
